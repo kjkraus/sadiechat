@@ -1,0 +1,704 @@
+@media (max-width: 767px) {
+
+.footer-yellow {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}  
+
+.price-pricetable-blue .price-box .price-features {
+  height: 10px;
+  padding-bottom: 0px;
+  overflow: hidden;
+}
+
+.price-pricetable-blue .price-box:hover .price-features {
+  height: auto;
+  padding-bottom: 70px;
+  overflow: visible;
+}
+
+.footer-yellow .footer-social .block-content  .follow-link-wrapper-heading {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.footer-yellow .footer-social .block-content .follow-link-wrapper a {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header dark green  -----------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+.header-header1-menu .navmenu {
+  background-color: #2ecc71;
+}
+
+.header-header1-menu .navbar-nav > li > a:focus, 
+.header-header1-menu .navbar-nav > li > a:hover,
+.header-header1-menu .navbar-nav li a:focus, 
+.header-header1-menu .navbar-nav li a:hover {
+  border-left: 5px solid #ffffff;
+  color: #000000;
+}
+
+.header-header1-content .intro-text p {
+  padding-left:10%;
+  padding-right:10%;
+}
+  
+#header-header1-content .main-title {
+  margin-top: 80px;
+  font-size: 3em;
+}
+
+#header-header1-content .main-buttons-wrap .main-download {
+  margin-bottom: 30px;
+}
+
+#header-header1-content .main-buttons-wrap .main-download{ 
+  float: none;
+  width: 75%;
+} 
+
+.header-header1-menu .navbar-default .navbar-collapse, 
+.header-header1-menu  .navbar-default .navbar-form {
+border-color: transparent;
+}
+
+.header-header1-menu .nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+ background-color: transparent;
+}
+
+.header-header1-menu .navbar-scrolled .navbar-nav > li > a:focus, 
+.header-header1-menu .navbar-scrolled .navbar-nav > li > a:hover {
+  background: none;
+  border: none;
+}
+
+.header-header1-menu .navbar-scrolled .navbar-toggle {
+  margin-right: 0px;
+  margin-top: 16px;
+  margin-bottom: 5px;
+}
+
+.header-header1-menu .navbar-scrolled .logo img {
+  margin-top: 17px;
+  margin-bottom: 0px;
+}
+
+.header-header1-menu .navbar-scrolled .navbar {
+  min-height: 0px; 
+}
+
+.header-header1-menu .navbar-scrolled  .navbar-nav > li > a:focus, 
+.header-header1-menu .navbar-scrolled  .navbar-nav > li > a:hover,
+.header-header1-menu .navbar-scrolled  .navbar-nav li a:focus, 
+.header-header1-menu .navbar-scrolled  .navbar-nav li a:hover {
+  border-left: 5px solid #ffffff;
+  color: #000000;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+.header-header1-menu .navbar-nav > li > a {
+  padding: 5px 8px;
+  padding-top: 19px;
+}
+#header-header1-content .main-buttons-wrap .main-download {
+  margin-bottom: 20px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header dark green  --------------------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Stats / stats pink --------------------------------*/
+/*--------------------------------------------------------------------------*/
+/* CSS from jquery-asProgress.js library*/
+@media (max-width: 768px) { 
+
+.stat-stats-pink {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.stat-stats-pink .stat-stats {
+  padding-left: 30px;
+}
+
+.stat-stats-pink .stat-stat{
+  margin-right: 0px;
+}
+
+.stat-stats-pink  .stat-stat{
+  margin-bottom: 10px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {  
+
+.stat-stats-pink .stat-stats {
+  padding-left: 30px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*--------------------  Ends : Stats / stats pink---------------------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table blue 	--------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.price-pricetable-blue{
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+
+.price-pricetable-blue h2 {
+  font-size: 30px;
+}
+
+.price-pricetable-blue .price-desc {
+  font-size: 16px;
+}
+
+.price-pricetable-blue .price-table {
+  margin-top: 0px;
+}
+
+.price-pricetable-blue .price-box {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px){ 
+
+.price-pricetable-blue .price-box {
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------    Ends : PriceTable / Price table blue	--------------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial light blue --------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.testimonial-light-blue .container {
+  padding-bottom: 30px;
+}
+
+.testimonial-light-blue {
+  padding-top: 5px;
+}
+
+.testimonial-light-blue h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.testimonial-light-blue .testi-body {
+  font-size: 16px;
+  padding-bottom: 0px;
+}
+
+.testimonial-light-blue  .carousel-inner .item {
+  margin: 0;
+}
+
+.testimonial-light-blue .carousel-indicators {
+  bottom: 5px;
+  left: 0%;
+  margin: 0;
+  padding-left: 15px;
+  right: auto;
+  text-align: left;
+  width: 100%;
+}
+
+.carousel-inner .testi-name-designation-body {
+  margin-bottom: 55px;
+}
+
+.testimonial-light-blue .testi-name-designation-body {
+  float: left;
+  width: 100%;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px) { 
+
+.testimonial-light-blue .testi-image {
+  padding-left: 10px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Testimonial / Testimonial light blue -----------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Orange  -------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+.contact-orange-address {
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.contact-orange-address .contact-us h3 {
+  font-size: 36px;
+  width: 100%;
+  margin-top: 0px;
+}
+
+.contact-orange-address .contact-us {
+  padding-right: 0px;
+}
+
+.contact-orange-address .contact-adddress li {
+  font-size: 18px;
+}
+
+.contact-orange-address .contact-adddress i {
+  font-size: 18px;
+  padding-right: 5px;
+}
+
+.contact-orange-address .contact-adddress ul {
+  padding-left: 0px;
+}
+
+.contact-orange {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.contact-orange .btn {
+  width: 100%;
+  padding: 10px 0px;
+}
+
+.contact-orange .name-email .input-lg {
+  margin-bottom: 30px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Orange  ----------------------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog light brown  ----------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {  
+
+.blog-light-brown {
+  padding-top: 6px;
+  padding-bottom: 30px;
+}
+
+.blog-light-brown .view-header {
+  text-align: center;
+}
+
+.blog-light-brown h2 {
+  font-size: 2.2em;
+}
+
+.blog-light-brown .blog-image img {
+  width: 100%
+}
+
+.blog-light-brown .blog-posted {
+  text-align: left;
+  height: auto;
+  font-weight: lighter;
+  padding: 6px;
+}
+
+.blog-light-brown .date-month {
+  width: auto;
+  display: inline-block;
+  height: auto;
+  padding-top: 0;
+  font-size: 20px;
+  margin-bottom: auto;
+  padding-right: 10px;
+}
+
+.blog-light-brown .date-day {
+  width: auto;
+  display: inline-block;
+  height: auto;
+  padding-top: 0;
+  font-size: 20px;
+  padding-right:10px;
+}
+
+.blog-light-brown .date-year {
+  width: auto;
+  display: inline-block;
+  height: auto;
+  font-size: 20px;
+  margin-top: auto;
+}
+
+.blog-light-brown .blog-meta{
+  height:auto;
+  margin-top: 8px;
+}
+
+.blog-light-brown .blog-readmore {
+  padding-bottom: 0px;
+}
+
+.blog-light-brown .blog-content-right {
+  background: #ffffff;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-right: 30px;
+  height: auto;
+}
+
+.blog-light-brown .blog-title a {
+  font-size: 1.5em;
+}
+
+.blog-light-brown .blog-content-right {
+  padding-top: 8px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+.blog-light-brown .blog-author {
+  font-size: 15px;
+  margin-top: 7px;
+  display: inline-block;
+}
+
+.blog-light-brown .blog-author i {
+  font-size: 13px;
+  padding-right: 0px; 
+}
+
+.blog-light-brown .blog-desc {
+  font-size: 1.1em;
+  padding-top: 8px;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px) { 
+
+.blog-light-brown .blog-title a {
+  font-size: 1.5em;
+}
+
+span.col-sm-3.blog-author.text-right {
+  font-size: 15px;
+  padding-left: 0px;
+  padding-top: 5px;
+}
+
+.blog-light-brown .blog-content-right {
+  padding-top: 5px;
+}
+
+.blog-light-brown .blog-author i {
+  font-size: 12px;
+}
+
+.blog-light-brown .blog-desc {
+  font-size: 1.1em;
+  padding-top: 0px;
+  line-height: 120%;
+}
+
+.blog-light-brown .blog-posted {
+  padding-left: 10px;
+  padding-top: 18px;
+}
+
+.blog-light-brown .date-day {
+  height: 27%;
+  padding-top: 0%;
+  margin-bottom: 0%;
+}
+
+.blog-light-brown .date-month{
+  height: 27%;
+  padding-top: 3%;
+}
+
+.blog-light-brown .date-year{
+  height: 20%;
+  margin-top: 20%;
+}
+
+}
+
+@media (min-width: 993px) and (max-width: 1200px) { 
+
+.blog-light-brown .blog-content-right {
+  padding-top: 5px;
+}
+
+.blog-light-brown .blog-desc {
+  line-height: 130%;
+  padding-top: 0px;
+}
+
+.blog-light-brown .blog-posted {
+  padding-left: 15px;
+  padding-top: 10px;
+}
+
+.blog-light-brown .date-day {
+  height: 27%;
+  padding-top: 0%;
+  margin-bottom: 0%;
+}
+
+.blog-light-brown .date-month{
+  height: 27%;
+  padding-top: 3%;
+}
+
+.blog-light-brown .date-year{
+  height: 20%;
+  margin-top: 20%;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Blognews / Blog light brown  -------------------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Team / Team blue   ----------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.team-blue {
+  padding-top: 25px;
+  padding-bottom: 0px;
+}
+
+.team-blue .team-header h2 {
+  font-size: 25px;
+  font-size: normal;
+  padding-left: 5px;
+}
+
+.team-blue .team-header .desc {
+  font-size: 15px;
+  padding: 9px 5px;
+}
+
+.team-blue .team-header .desc p {
+  margin: 0px 0px 11px;
+}
+ 
+.team-blue .carousel-inner {
+  width: 100%;
+  margin: 0;
+}
+
+.mobile-carousel-controls {
+  padding: 20px;
+  padding-top: 0px;
+}
+
+.team-red  .carousel-inner .item {
+  margin: 0;
+}
+
+.team-red .team-name {
+  font-size: 23px;
+}
+
+.team-red .team-designation{
+  font-size: 17px;
+}
+
+.team-red .team-header {
+  margin-bottom: 0px;
+}
+
+.team-red .team-inner {
+  padding: 0;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Team / Team blue   -------------------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*--------------- Begins : portfolio / portfolio  diamond ------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {  
+
+.portfolio-diamond {
+  padding-top: 30px; 
+  padding-bottom: 30px;
+}
+
+.portfolio-diamond  .diamond-menu {
+  padding-bottom: 10px;
+}
+
+.portfolio-diamond  .desc {
+  margin-bottom: 11px;
+}
+
+.portfolio-diamond  .diamond-menu span {
+  font-size: 13px;
+  padding-right: 0px;
+  padding-left: 3px;
+}
+
+.portfolio-diamond  .diamond-menu span.filteritem .fa {
+  font-size: 5px;
+  padding-right: 6px;
+  vertical-align: middle;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*--------------- End : portfolio / portfolio  diamond  --------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+.content-pink {
+  padding-top: 4px;
+  padding-bottom: 20px;
+}
+
+.content-pink .top-header {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+  
+.content-pink .top-header .title {
+  font-size: 34px;
+  margin-bottom: 2px;
+}
+
+.content-pink .top-header .description {
+  margin-bottom: 15px;
+}
+
+.content-pink .content-boxes .content-box .title {
+  margin-bottom: 5px;
+ }
+ 
+.content-pink .content-boxes .content-box .description {
+  font-size: 1.06em;
+  margin-bottom: 13px;
+}
+
+.content-pink .content-boxes .download-links {
+  margin: 0;
+  text-align: center;
+  margin-bottom: 6px;
+}
+
+.content-pink .content-boxes .download-links .download-buttons {
+  margin: 15px;
+  padding-left: 0; 
+  margin-left: 0px;
+  width: 100%;
+}
+
+.content-pink .content-boxes .content-pink-video {
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-bottom: 56.25%; 
+  overflow: hidden; 
+}
+
+.content-pink .content-boxes .content-box {
+  padding-right: 15px;
+}
+
+.content-pink .content-pink-video iframe, 
+.content-pink .content-pink-video object, 
+.content-pink .content-pink-video embed { 
+  height: 100%; 
+  width: 90%;
+  margin-left:5%;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+.content-pink .content-boxes .content-box {
+  width: 100%;
+}
+
+.content-pink .content-boxes .content-pink-video {
+  margin-left: 16px;
+  margin-top: 29px;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  overflow: hidden; 
+}
+
+.content-pink .content-boxes .download-links .download-buttons {
+  margin-right: 17px;
+}
+
+.content-pink .content-pink-video iframe, 
+.content-pink .content-pink-video object, 
+.content-pink .content-pink-video embed { 
+  height: 100%; 
+}
+
+}
+
+@media (min-width: 993px) and (max-width: 1200px) {
+
+.content-pink .content-boxes .content-box {
+  width: 60%;
+}
+
+.content-pink .content-boxes .content-box .description {
+  font-size: 1.15em;
+  margin-bottom: 8px;
+}
+
+.content-pink .content-boxes .download-links {
+  margin-top: 0px;
+}
+
+.content-pink .content-boxes .download-links .download-buttons {
+  font-size: 1.3em;
+  margin-right: 10px;
+  width: 170px;
+  padding-left: 18px;
+  padding-top: 9px;
+}
+
+}

@@ -1,0 +1,702 @@
+.breadcrumb-wrap {
+  background-color: #f5f5f5;
+}
+.breadcrumb{ 
+  background-color: transparent;
+} 
+
+.breadcrumb a{
+  color:#303030; 
+}
+.sidebar .nav > li > a {
+  color: #636363;
+}  
+
+.sidebar h2,
+.sidebar h3 {
+  color:#ffffff;
+}
+.follow-links li a {
+  color:#4D4D4D;
+}
+.follow-links.follow-texts li{
+  background-color:#F9F4F1;
+}
+.follow-links.follow-texts li .fa{ 
+  background: #F5EAE6;
+}  
+.blog-detail-v2 .comment-heading {
+  border-color: #eeeeee;
+  background-color: #dddddd;
+}
+.footer-yellow {
+  background-color: #f6bb43;
+}  
+
+.footer-yellow .footer-social .block-content {
+  background: #fcd055;  
+}
+
+.footer-yellow .footer-social .block-content .follow-link-wrapper a{
+  border-left-color: #fde5a2; 
+}
+
+.footer-yellow .footer-social .block-content .follow-link-wrapper a:before{
+  color: #524a33;
+}
+
+.footer-yellow .footer-message {
+  color: #2c2c2c;
+}
+
+/*--------------------------------------------------------------------------*/
+/*-----------------  Begins : style guide / header dark green  -------------*/
+/*--------------------------------------------------------------------------*/
+.navbar-default .btn-default {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-color: #ffffff;
+}
+
+.btn-default {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-color: #2ecc71;
+}
+
+.btn-default:hover {
+  color: #ffffff;
+  background-color: #23a65a;
+  border-color: #2ecc71;
+}
+
+h1, h2, h3  {
+  color: #2ecc71;
+}
+
+h4, h5, h6 {
+  color: #4b4b4b;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #555;
+  background-color: #c0f0d4;
+}
+
+.dropdown-menu > li > a:hover {
+  background-color: #c0f0d4;
+}
+
+.navbar-default {
+  background-color: #2ecc71 !important
+}
+
+.navbar-default .navbar-brand {
+  color: #ffffff;
+}
+
+.navbar-default .navbar-brand:hover{
+  color: #c0f0d4;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #555555;
+  background-color: #c0f0d4;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+}
+
+.btn-default.disabled {
+  background-color: #FFFFFF;
+  border-color: #2ecc71;
+}
+
+.btn-primary.disabled {
+  background-color: #2ecc71;
+  border-color: #2ecc71;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: #c0f0d4;
+}
+
+blockquote {
+  border-left-color: #c0f0d4;
+}
+
+blockquote.pull-right {
+  border-right-color: #c0f0d4;
+}
+
+.well {
+  background-color: #c0f0d4;
+  border-color: #2ecc71;
+}
+
+.breadcrumb .fa {
+  color: #4b4b4b;
+}
+
+.breadcrumb a {
+  color: #303030;
+}
+
+.breadcrumb > .active {
+  color: #2ecc71;
+}
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  color: #FFFFFF;
+  background-color: #2ecc71;
+}
+
+.nav-pills > .active > a > .badge {
+  color: #FFFFFF;
+  background-color: #23a65a;
+}
+
+.badge {
+  color: #FFFFFF;
+  background-color: #23a65a;
+}
+
+.nav-pills > li > a:hover{
+  background-color: #c0f0d4;
+}
+
+.progress {
+  background-color: #c0f0d4;
+  border: transparent;
+}
+
+.jumbotron {
+  background-color: #c0f0d4;
+}
+
+.btn-primary {
+  color: #ffffff;
+  background-color: #2ecc71;
+  border-color: #2ecc71;
+}
+
+.nav-tabs > li > a:hover {
+  background-color: #c0f0d4;
+}
+
+.pagination > .active > a {
+  background-color: #2ecc71;
+  border-color: #2ecc71;
+}
+
+.pagination > .active > a:hover {
+  background-color: #23a65a;
+  border-color: #23a65a;
+}
+
+.pagination > li > a:hover {
+  background-color: #c0f0d4;
+}
+
+.pager > li > a:hover {
+  background-color: #c0f0d4;
+}
+
+.btn-primary:hover {
+  color: #ffffff;
+  background-color: #23a65a;
+  border-color: #23a65a;
+}
+
+.list-group-item.active,
+.list-group-item.active:hover, 
+.list-group-item.active:focus {
+  background-color: #2ecc71;
+  border-color: #2ecc71;
+}
+
+.list-group-item {
+  background-color: #FFFFFF;
+  border-color: #2ecc71;
+}
+
+.list-group-item:hover{
+  background-color: #c0f0d4;
+}
+
+a.list-group-item:hover{
+  background-color: #c0f0d4;
+}
+
+.panel-default {
+  border-color: #2ecc71;
+}
+
+.panel-primary>.panel-heading {
+  color: #ffffff;
+  background-color: #2ecc71;
+  border-color: #2ecc71;
+}
+
+.panel-primary {
+  border-color: #2ecc71;
+}
+
+.label-primary {
+  background-color: #2ecc71; 
+}
+
+.panel-default>.panel-heading {
+  color: #333333;
+  background-color: #c0f0d4;
+  border-color: #c0f0d4;
+}
+
+.panel-footer {
+  background-color: #c0f0d4;
+  border-top-color: #c0f0d4;
+}
+/*--------------------------------------------------------------------------*/
+/*-------------------  End : style guide / header dark green  --------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header dark green  -----------------------*/
+/*--------------------------------------------------------------------------*/
+.header-header1-menu .navbar-toggle .icon-bar {
+  background-color: #2DCC70;
+}
+
+.header-header1-menu .dropdown-menu {
+  background-color: #2DCA6E;
+  border: 1px solid #2DCA6E;
+  border: 1px solid #2DCA6E;
+}
+
+.header-header1-menu .dropdown-menu > li > a {
+  color: #ffffff;
+}
+
+.header-header1-menu .nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+  background: #2DCA6E;
+}
+
+.header-header1-menu .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+  background: #2DCA6E;
+}
+
+.header-header1-menu .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+  color: #262626;
+}
+
+.header-header1-menu .navbar-toggle {
+  border-color: #ffffff;
+}
+
+.header-header1-menu .navbar-nav > li > a {
+  color: #ffffff;
+}
+
+#header-header1-content  .main-title {
+  color: #ffffff;
+}
+
+#header-header1-content  .main-title span {
+  color: #2DCA6E;
+}
+
+#header-header1-content  .main-desc {
+  color: #ffffff;
+}
+
+#header-header1-content .main-buttons-wrap .main-download {
+  background-color: #2DCC70;
+  border-color: #2DCC70;
+}
+
+.header-header1-menu .navbar-scrolled  {
+  background: #2ecc71;
+}
+
+.header-header1-menu .navbar-scrolled .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
+
+.header-header1-menu .navbar-scrolled  .navbar-toggle:hover, 
+.header-header1-menu .navbar-scrolled  .navbar-toggle:focus {
+  background-color: transparent;
+}
+
+@media (max-width: 767px) {
+
+.header-header1-menu .navbar-default  .navbar-nav .open .dropdown-menu>li>a {
+  color: #ffffff;
+}
+
+.header-header1-menu .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover, 
+.header-header1-menu .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus {
+color: #000000;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header dark green  --------------------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Stats / stats pink --------------------------------*/
+/*--------------------------------------------------------------------------*/
+/* CSS from jquery-asProgress.js library*/
+.progress {
+  background-color: #f7f7f7;
+  border-color: #eeeeee;
+}
+
+.progress__bar {
+  background: #5bc0de;
+}
+
+.progress__label {
+  color: #ffffff;
+}
+
+.progress--success .progress__bar {
+  background-color: #43ac6a;
+}
+
+.progress--alert .progress__bar {
+  background-color: #f04124;
+}
+
+.stat-stats-pink h2.title {
+  color: #DB4453;
+}
+
+.stat-stats-pink .stat-label {  
+  color: #ffffff;
+  background-color: #424242;
+}  
+
+.stat-stats-pink .progress {
+  background-color: #FCF0F2;
+}
+
+.stat-stats-pink  .progress__bar {
+  background-color: #DB4453;
+}
+
+.stat-stats-pink  .stat-inner {
+  background-color: #FCF0F2;
+}
+
+.stat-stats-pink  .stat-desc {
+  color: #4b4b4b;
+}
+/*--------------------------------------------------------------------------*/
+/*--------------------  Ends : Stats / stats pink---------------------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table blue 	--------------------*/
+/*--------------------------------------------------------------------------*/
+.price-pricetable-blue {
+  background-color: #ffffff;
+}
+
+.price-pricetable-blue .price-box:hover .price-header,
+.price-pricetable-blue .price-box:hover .price-features{
+  background-color: #5E9CEA;
+}
+
+.price-pricetable-blue h2,
+.price-pricetable-blue h3 {
+  color:#5E9CEA;
+}
+
+.price-pricetable-blue .price-desc {
+  color: #4b4b4b;
+} 
+
+.price-pricetable-blue .price-box:hover h3,
+.price-pricetable-blue .price-box:hover .price-features-list {
+  color: #ffffff;
+}
+
+.price-pricetable-blue .price-box:hover .price-features {
+  border-top-color: #F9F9F9;
+}
+
+.price-pricetable-blue .btn {
+  background-color: #5E9CEA;
+  color: #ffffff;
+}
+
+.price-pricetable-blue .price-box:hover .btn {
+  background-color: #ffffff;
+  color: #5E9CEA;
+} 
+
+.price-pricetable-blue .price-header {
+  background-color: #EBEBEB;
+}
+
+.price-pricetable-blue .price-features {
+  background-color: #F9F9F9;
+} 
+
+.price-pricetable-blue .price-price {
+  border-color: #5E9CEA;
+  background: #ffffff;
+}
+
+.price-pricetable-blue .price-price .price-cost {
+  color: #5E9CEA;
+}
+/*--------------------------------------------------------------------------*/
+/*------------    Ends : PriceTable / Price table blue	--------------------*/
+/*--------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial light blue --------------*/
+/*--------------------------------------------------------------------------*/
+.testimonial-light-blue {
+  color: #ffffff;
+  background-color: #227784;
+}
+.testimonial-light-blue h2 {
+  color:#ffffff;
+}
+.testimonial-light-blue .testi-name {
+  color: #48C66D;
+}
+
+.testimonial-light-blue  .carousel-indicators li {
+  background-color: #227784;
+  border-color: #ffffff;
+}
+
+.testimonial-light-blue  .carousel-indicators li.active{
+  background-color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Testimonial / Testimonial light blue -----------------*/
+/*--------------------------------------------------------------------------*/
+ 
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Orange  -------------------------*/
+/*--------------------------------------------------------------------------*/
+.contact-orange-address {
+  color: #ffffff;
+  background-color: #fd6d52;
+}
+
+.contact-orange-address .contact-us h3 {
+  color: #e9573e;
+  background-color: #ecedef;
+}
+
+.contact-orange-address .contact-adddress a {
+  color: #ffffff;
+}
+
+.contact-orange {
+  color: #ffffff;
+  background-color: #e9573e;
+}
+
+.contact-orange .name-email .input-lg {
+  color: #ffffff;
+}
+
+.contact-orange .btn{
+  color: #fffffff;
+  background-color: #fd6d52;
+}
+
+.contact-orange .name-email .input-lg::-webkit-input-placeholder{
+  color: #ffffff;
+}
+
+.contact-orange .name-email .input-lg:-moz-placeholder  {
+  color: #ffffff;
+}
+
+.contact-orange .name-email .input-lg::-moz-placeholder {
+  color: #ffffff;
+}
+
+.contact-orange .name-email .input-lg:-ms-input-placeholder {
+  color: #ffffff;
+}
+
+.contact-orange .message .input-lg::-webkit-input-placeholder{
+  color: #ffffff;
+}
+
+.contact-orange .message .input-lg:-moz-placeholder  {
+  color: #ffffff;
+}
+
+.contact-orange .message .input-lg::-moz-placeholder {
+  color: #ffffff;
+}
+
+.contact-orange .message .input-lg:-ms-input-placeholder {
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Orange  ----------------------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog light brown  ----------------------*/
+/*--------------------------------------------------------------------------*/
+.blog-light-brown {
+  background-color: #ECEBE6;
+  color: #ffffff;
+}
+
+.blog-light-brown .blog-readmore a {
+  color: #4b4b4b;
+}
+
+.blog-light-brown h2{
+  color: #C06C30;
+}
+
+.blog-light-brown .blog-content-right  {
+  background-color: #ffffff;
+}
+
+.blog-light-brown .blog-content-right  a{
+  color: #C06C30;
+}
+
+.blog-light-brown .blog-posted {
+  background-color: #C06C30;
+  color: #ffffff;
+}
+
+.blog-light-brown .blog-title a{
+  color: #C06C30;
+}
+
+.blog-light-brown  .blog-desc{
+  color: #4b4b4b;
+}
+
+.blog-light-brown .mobile-carousel-controls span {
+  color: #ffffff;
+  background-color: #BF6B31;
+}
+
+.blog-light-brown .mobile-carousel-controls span:hover {
+  background: #353535;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Blognews / Blog light brown  -------------------------*/
+/*--------------------------------------------------------------------------*/
+ 
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Team / Team blue   ----------------------*/
+/*--------------------------------------------------------------------------*/
+.team-blue {
+  background-color: #ffffff;
+}
+
+.team-blue .team-header {
+  color: #333333;
+}
+
+.team-blue .team-header h2 {
+  color: #5d9cec;
+}
+
+.team-blue .team-header .desc {
+  color: #4b4b4b;
+}
+
+.team-blue .team-content {
+  background-color: #ffffff;
+}
+
+.team-blue .team-name {
+  color: #5d9cec;
+}
+
+
+.team-blue .team-designation{
+  color: #4b4b4b;
+}
+
+.team-blue .team-body{
+  color: #4b4b4b;
+}
+
+.team-blue .team-social a{
+  color: #BEBEBE;
+}
+
+.team-blue .team-social li:hover a{
+  color: #5d9cec;
+}
+
+.mobile-carousel-controls span {
+  color: #ffffff;
+  background-color: #5F9AEE;
+}
+
+.mobile-carousel-controls span:hover {
+  background-color: #353535;
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Team / Team blue   -------------------------*/
+/*--------------------------------------------------------------------------*/
+  
+/*--------------------------------------------------------------------------*/
+/*--------------- Begins : portfolio / portfolio  diamond ------------------*/
+/*--------------------------------------------------------------------------*/
+.portfolio-diamond {
+  background-color: #ffffff;
+}
+
+.portfolio-diamond .portfolio-header,
+.portfolio-diamond .h2,
+.portfolio-diamond .h3,
+.portfolio-diamond .h4 {
+  color: #4B4B4B;
+}
+
+.portfolio-diamond  .diamond-menu span.active {
+  color: #3498db;
+}
+/*--------------------------------------------------------------------------*/
+/*------------------ end : portfolio / portfolio  diamond ------------------*/
+/*--------------------------------------------------------------------------*/
+.content-pink .top-header .title {
+  color: #db4453;
+} 
+
+.content-pink .top-header .description {
+  color: #4d4d4d;
+}
+
+.content-pink .content-boxes .content-box .title {
+  color: #db4453;
+ }
+
+.content-pink .content-boxes .download-links .download-buttons {
+  background-color: #db4453;
+  color: #ffffff;
+}
+
+.content-pink .content-boxes .content-pink-video {
+  color: #db4453;
+}
